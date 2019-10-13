@@ -13,7 +13,6 @@
 /build
 
 # misc
-/.idea
 .DS_Store
 .env.local
 .env.development.local
@@ -23,3 +22,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.idea/.gitignore
+.idea/IT-Logger-React-Redux.iml
+.idea/codeStyles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
